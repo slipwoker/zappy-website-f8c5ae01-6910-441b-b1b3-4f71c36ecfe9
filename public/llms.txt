@@ -1,0 +1,79 @@
+# דרור ברק — Generative Engine Optimization Map
+
+> A business consultant specializing in sales and marketing for the online courses and academy industry. Works with both large established colleges and new course creators just starting out. The key differentiator is highly personalized, close-knit client guidance combined with a full 360-degree digital agency umbrella — offering an end-to-end solution under one roof. The brand blends strategic consulting expertise with hands-on digital execution.
+
+---
+
+## Pages
+
+### בית
+https://-f8c5ae01.zappy5.app
+A business consultant specializing in sales and marketing for the online courses and academy industry. Works with both large established colleges and new course
+
+### שירותים
+https://-f8c5ae01.zappy5.app/services
+שירותים | דרור ברק. digital marketing consulting agency
+
+### אודות
+https://-f8c5ae01.zappy5.app/about
+אודות | דרור ברק. digital marketing consulting agency
+
+### צור קשר
+https://-f8c5ae01.zappy5.app/contact
+צור קשר | דרור ברק. digital marketing consulting agency
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f8c5ae01.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f8c5ae01.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f8c5ae01.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-f8c5ae01.zappy5.app/contact
+- Endpoint: https://-f8c5ae01.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About דרור ברק
+A business consultant specializing in sales and marketing for the online courses and academy industry. Works with both large established colleges and new course creators just starting out. The key differentiator is highly personalized, close-knit client guidance combined with a full 360-degree digital agency umbrella — offering an end-to-end solution under one roof. The brand blends strategic consulting expertise with hands-on digital execution.
+
+## Target Audience
+- בעלי מכללות וקורסים - הן לקוחות גדולים והן קורסים בתחילת הדרך
+- בעלי מכללות וקורסים
+- סוכנויות שיווק דיגיטלי
+- מורים לקורסים מקוונים
+
+## Industry
+Business Consulting / Digital Marketing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-f8c5ae01.zappy5.app/sitemap.xml
+- Robots: https://-f8c5ae01.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-f8c5ae01.zappy5.app/llms-full.txt
