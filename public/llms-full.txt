@@ -2,13 +2,13 @@
 
 A business consultant specializing in sales and marketing for the online courses and academy industry. Works with both large established colleges and new course creators just starting out. The key differentiator is highly personalized, close-knit client guidance combined with a full 360-degree digital agency umbrella — offering an end-to-end solution under one roof. The brand blends strategic consulting expertise with hands-on digital execution.
 
-Source: https://-f8c5ae01.zappy5.app
+Source: https://example.com
 
 ---
 
 ## digital marketing consulting agency — דרור ברק
 
-URL: https://-f8c5ae01.zappy5.app
+URL: https://example.com
 Description: A business consultant specializing in sales and marketing for the online courses and academy industry. Works with both large established colleges and new course
 
 digital marketing consulting agency — דרור ברק
@@ -439,7 +439,7 @@ digital marketing consulting agency — דרור ברק
 
 ## שירותים — דרור ברק
 
-URL: https://-f8c5ae01.zappy5.app/services
+URL: https://example.com/services
 Description: שירותים | דרור ברק. digital marketing consulting agency
 
 שירותים — דרור ברק
@@ -985,7 +985,7 @@ Digital Marketing Consulting
 
 ## אודות — דרור ברק
 
-URL: https://-f8c5ae01.zappy5.app/about
+URL: https://example.com/about
 Description: אודות | דרור ברק. digital marketing consulting agency
 
 אודות — דרור ברק
@@ -1453,7 +1453,7 @@ Description: אודות | דרור ברק. digital marketing consulting agency
 
 ## צור קשר — דרור ברק
 
-URL: https://-f8c5ae01.zappy5.app/contact
+URL: https://example.com/contact
 Description: צור קשר | דרור ברק. digital marketing consulting agency
 
 צור קשר — דרור ברק
@@ -1777,7 +1777,7 @@ Description: צור קשר | דרור ברק. digital marketing consulting agenc
 
 ## מדיניות פרטיות
 
-URL: https://-f8c5ae01.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1976,7 +1976,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-f8c5ae01.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2184,7 +2184,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-f8c5ae01.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-f8c5ae01.zappy5.app
+https://example.com
 A business consultant specializing in sales and marketing for the online courses and academy industry. Works with both large established colleges and new course
 
 ### שירותים
-https://-f8c5ae01.zappy5.app/services
+https://example.com/services
 שירותים | דרור ברק. digital marketing consulting agency
 
 ### אודות
-https://-f8c5ae01.zappy5.app/about
+https://example.com/about
 אודות | דרור ברק. digital marketing consulting agency
 
 ### צור קשר
-https://-f8c5ae01.zappy5.app/contact
+https://example.com/contact
 צור קשר | דרור ברק. digital marketing consulting agency
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-f8c5ae01.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-f8c5ae01.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-f8c5ae01.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-f8c5ae01.zappy5.app/contact
-- Endpoint: https://-f8c5ae01.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -74,6 +74,6 @@ Business Consulting / Digital Marketing
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-f8c5ae01.zappy5.app/sitemap.xml
-- Robots: https://-f8c5ae01.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-f8c5ae01.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
